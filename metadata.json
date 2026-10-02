@@ -1,0 +1,6 @@
+{
+  "name": "AdRewards Pro - Real Rewards & Withdrawal Hub",
+  "description": "Transparent rewards platform to watch sponsored ads, complete verified tasks, manage secure dollar wallet balances, and request real withdrawals via PayPal and Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
